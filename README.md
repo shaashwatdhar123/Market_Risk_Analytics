@@ -1,6 +1,6 @@
-# 📈 Market Risk Analytics in Python
+#Market Risk Analytics in Python
 
-> A comprehensive quantitative finance toolkit implementing industry-standard techniques for market risk measurement, volatility forecasting, portfolio analytics, and derivatives pricing.
+#A comprehensive quantitative finance toolkit implementing industry-standard techniques for market risk measurement, volatility forecasting, portfolio analytics, and derivatives pricing.
 
 ---
 
